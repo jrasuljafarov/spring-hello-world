@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SonSpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="naa.war">
+      <element id="artifact" artifact-name="SonSpring:war exploded" />
+    </root>
+  </artifact>
+</component>
